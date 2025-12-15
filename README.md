@@ -1,2 +1,2 @@
-# Python-Assignments-
+# Python-Assignments
 INSY-3300
